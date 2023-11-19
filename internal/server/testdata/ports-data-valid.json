@@ -1,0 +1,52 @@
+{
+  "AEAJM": {
+    "name": "Ajman",
+    "city": "Ajman",
+    "country": "United Arab Emirates",
+    "alias": [],
+    "regions": [],
+    "coordinates": [
+      55.5136433,
+      25.4052165
+    ],
+    "province": "Ajman",
+    "timezone": "Asia/Dubai",
+    "unlocs": [
+      "AEAJM"
+    ],
+    "code": "52000"
+  },
+  "BDCGP": {
+    "name": "Chittagong",
+    "city": "Chittagong",
+    "country": "Bangladesh",
+    "alias": [],
+    "regions": [],
+    "coordinates": [
+      91.8123324,
+      22.3475365
+    ],
+    "province": "Chittagong Division",
+    "timezone": "Asia/Dhaka",
+    "unlocs": [
+      "BDCGP"
+    ],
+    "code": "53827"
+  },
+  "ZAZBA": {
+    "name": "Coega",
+    "coordinates": [
+      25.67,
+      -33.77
+    ],
+    "city": "Coega",
+    "province": "Eastern Cape",
+    "country": "South Africa",
+    "alias": [],
+    "regions": [],
+    "timezone": "Africa/Johannesburg",
+    "unlocs": [
+      "ZAZBA"
+    ]
+  }
+}
